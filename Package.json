@@ -1,9 +1,10 @@
 {
-    "name" : "computacao-distribuida",
+    "name": "computacao-distribuida",
     "version": "1.0.0",
-    "descripition": "Exemplo de app com rabbinq",
+    "description": "Exemplo de app com rabbimq",
     "main": "producer.js",
-    "scripts" : {
+    
+    "scripts": {
         "start-producer": "node producer.js",
         "start-producer": "node producer.js"
     },
