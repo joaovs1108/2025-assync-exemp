@@ -7,7 +7,7 @@
         "start-producer": "node producer.js",
         "start-producer": "node producer.js"
     },
-      "dependencies: {
+      "dependencies": {
           "amqplib": "^0.10.5"
     }
 }
