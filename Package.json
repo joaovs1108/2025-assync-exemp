@@ -1,0 +1,13 @@
+{
+    "name" : "computacao-distribuida",
+    "version": "1.0.0",
+    "descripition": "Exemplo de app com rabbinq",
+    "main": "producer.js",
+    "scripts" : {
+        "start-producer": "node producer.js",
+        "start-producer": "node producer.js"
+    },
+      "dependencies: {
+          "amqplib": "^0.10.5"
+    }
+}
